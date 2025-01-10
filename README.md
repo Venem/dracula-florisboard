@@ -21,9 +21,9 @@ In the case of more recent versions of the theme, each key is coloured. To get t
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/florisboard/graphs/contributors).
 
-| [![Venem](https://github.com/venem.png?size=100)](https://github.com/venem) | [![Mirella](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
+| [![Venem](https://github.com/venem.png?size=100)](https://github.com/venem) | [![Lynn](https://github.com/dhampirdamsel.png?size=100)](https://github.com/dhampirdamsel) |
 | ---                                                                           | ---                                                                                             |
-| [Venem](https://github.com/venem)                                           | [Mirella](https://github.com/dhampir-damsel)                                                    |
+| [Venem](https://github.com/venem)                                           | [Lynn](https://github.com/dhampirdamsel)                                                    |
 
 ## Community
 
